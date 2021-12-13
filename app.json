@@ -17,7 +17,7 @@
     },
     "WS_PATH": {
       "description": "路径",
-      "value": "/ray",
+      "value": "/caddy",
       "required": true
     }
   },
