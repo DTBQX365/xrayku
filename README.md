@@ -5,7 +5,7 @@
 
 端口：443
 
-路徑（path）: /ray
+路徑（path）: /caddy
 
 
 
