@@ -6,17 +6,17 @@
   ],
   "env": {
     "PROTOCOL": {
-      "description": "协议填vless或vmess",
+      "description": "協議填vless或vmess",
       "value": "vless",
       "required": true
     },
     "UUID": {
-      "description": "用户ID",
+      "description": "用戶ID",
       "value": "",
       "required": false
     },
     "WS_PATH": {
-      "description": "路径",
+      "description": "默認路徑path",
       "value": "/caddy",
       "required": true
     }
