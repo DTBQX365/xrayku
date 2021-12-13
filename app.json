@@ -1,13 +1,13 @@
 {
-  "name": "Heroku-v2ray",
+  "name": "Hi",
   "description": "将v2ray部署在Heroku上",
   "keywords": [
     "v2ray VMess VLESS"
   ],
   "env": {
     "PROTOCOL": {
-      "description": "协议VMess或VLESS，请填小写的vmess或vless",
-      "value": "vmess",
+      "description": "协议填小写vless或vmess",
+      "value": "vless",
       "required": true
     },
     "UUID": {
@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/DaoChen6/Heroku-v2ray",
-  "repository": "https://github.com/DaoChen6/Heroku-v2ray",
+  "website": "https://github.com/iPad5588/xrayku",
+  "repository": "https://github.com/iPad5588/xrayku",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
