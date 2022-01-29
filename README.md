@@ -1,5 +1,5 @@
 ## Hi
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/iPad5588/xrayku.git)
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/DTBQX365/xrayku.git)
 
 ## 部署vless
 
